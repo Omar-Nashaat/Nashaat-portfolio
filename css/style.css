@@ -13,12 +13,12 @@ a {
 
 .text h1 {
     color: #A6BBCC;
-    font-size: 100px;
+    font-size: 90px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
 
-.text h4 {
+.text h4, h2 {
     color: #FFFFFF;
     font-size: 28px;
     font-family: 'Poppins', sans-serif;
